@@ -1,0 +1,1 @@
+{"100": {"py/object": "Domain.medicament.Medicament", "_Entitate__id_entitate": "100", "_Medicament__nume": "paracetamol", "_Medicament__producator": "prod", "_Medicament__pret": 150.0, "_Medicament__reteta": false}}
